@@ -7,7 +7,7 @@
 #                     This is an normal bash script and can be executed with sh EX: ( sudo ./wifiinfo.sh )                       #
 ##################################################################################################################################
 
-SCRIPTDATE="2018-04-20 15:01 +0100"
+SCRIPTDATE="2018-04-19 20:01 +0100"
 FILEBASE="wireless-info"
 OUTPUTDIR="$PWD"
 OUTPUTDIRFB="/tmp"
