@@ -1,10 +1,11 @@
-#!/bin/bash
+
 #!/bin/bash
 ##################################################################################################################################
 #                                                                                                                                #
 #                                           This script is written by Pierre Goude                                               #
 #      This program is open source; you can redistribute it and/or modify it under the terms of the GNU General Public           #
 #                     This is an normal bash script and can be executed with sh EX: ( sudo sh ADconnection.sh )                  #
+##################################################################################################################################
 
 SCRIPTDATE="2018-04-20 15:01 +0100"
 FILEBASE="wireless-info"
